@@ -1,6 +1,8 @@
 # Help Start
 
-![Logo](Imagens/logo.jpg)
+<p align="center">
+<img align="center" width="300" height="300" src="Imagens/logo.jpg">
+</p>
 
 Um projeto que visa ajudar quem quer iniciar no mundo da programação sendo o mais útil possível.
 
