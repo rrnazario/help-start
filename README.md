@@ -4,4 +4,4 @@ Um projeto que visa ajudar quem quer iniciar no mundo da programação sendo o m
 ## Contatos
 
 - [E-mail](mailto:rrnazario@gmail.com)
-- [Telegram](http://t.me/rrnazario)
+- [Grupo do Telegram](https://t.me/helpstartbr)

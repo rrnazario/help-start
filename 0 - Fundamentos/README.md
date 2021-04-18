@@ -52,3 +52,8 @@ Para começar, vamos precisar entender os fundamentos básicos de matemática e 
 - https://woliveiras.com.br/posts/introdu%C3%A7%C3%A3o-a-versionamento-de-c%C3%B3digo-e-conhecendo-o-git/
 - https://medium.com/biblioteca-dos-devs/como-versionar-utilizando-o-git-1f5d8fe2afcd
 - https://www.youtube.com/watch?v=sE2nzm8glDU
+---
+## Kanban
+### Links
+- https://rockcontent.com/br/blog/kanban/
+- https://www.youtube.com/watch?v=qJRbAXlhJ3c
