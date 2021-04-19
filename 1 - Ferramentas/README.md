@@ -18,7 +18,12 @@ Vamos instalar as ferramentas para conseguirmos fazer nosso projeto base "topo d
 
 - [Download da ferramenta](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 - [Como instalar](https://www.youtube.com/watch?v=49K-Zxc8A7A)
+---
+## .NET 5
 
+### Links
+
+- [Download do framework](https://download.visualstudio.microsoft.com/download/pr/9d866cb7-8678-461b-81a2-0804fa558c32/d63014e15863da828597b4e339e9c6fb/dotnet-sdk-5.0.202-win-x64.zip)
 ---
 ## Pg Admin (Postgres SQL)
 
