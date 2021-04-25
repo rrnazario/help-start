@@ -1,4 +1,4 @@
-# Fundamentos
+# Fundamentos 1
 
 Para começar, vamos precisar entender os fundamentos básicos de matemática e de programação.
 
