@@ -36,6 +36,6 @@ Faremos uma API para se comunicar com a aplicação frontend.
 - [Definição 1](https://thiagoborges.net.br/o-que-e-o-dapper-e-como-utilizar/)
 - [Definição 2](https://fabiobrandao.net.br/blog/asp-net-mvc/o-que-e-dapper-e-como-utilizar/)
 
-## EF Core (Entity Framework Core)
+### EF Core (Entity Framework Core)
 
 - [Definição](https://docs.microsoft.com/pt-br/ef/core/)
