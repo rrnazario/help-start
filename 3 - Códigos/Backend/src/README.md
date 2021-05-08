@@ -39,7 +39,7 @@ Como mapeamento das entidades do mundo real e propriedades dessas entidades, ide
 O projeto será construido gradativamente e utilizará as tecnologias citadas no diretório anterior. O código se encontra disponível na pasta [CozinhaPedidos](https://github.com/rrnazario/help-start/tree/main/3%20-%20C%C3%B3digos/Backend/src/CozinhaPedidos).
 
 
-Foi utilizado na arquiterura do projeto o conceito de [Arquitetura Limpa](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture), na qual, as divisões das responsabilidades podem variar de acordo com o tamanho/necessidade das aplicações. Fiz uma versão adaptada da original.
+Foi utilizado na arquitetura do projeto, o conceito de [Arquitetura Limpa](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture), na qual, as divisões das responsabilidades podem variar de acordo com o tamanho/necessidade das aplicações. Fiz uma versão adaptada da original.
 
 
 Se alguma extensão não tiver sido contemplada na parte teórica, podem mandar mensagens no grupo do [Telegram](http://t.me/helpstartbr).
