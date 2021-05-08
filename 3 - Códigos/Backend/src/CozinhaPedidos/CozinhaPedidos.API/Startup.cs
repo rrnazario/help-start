@@ -48,7 +48,7 @@ namespace CozinhaPedidos.API
             //Para mais explicações: https://pt.stackoverflow.com/questions/20770/o-que-%C3%A9-inje%C3%A7%C3%A3o-de-depend%C3%AAncia
             InjectServices(services);
             InjectRepositories(services);
-            InjectUtilitaries(services);
+            InjectUtilities(services);
 
             //Mapeamento das entidades
             MapEntities(services);
@@ -99,7 +99,7 @@ namespace CozinhaPedidos.API
         /// Injeção dos demais elementos da API.
         /// </summary>
         /// <param name="services"></param>
-        private void InjectUtilitaries(IServiceCollection services)
+        private void InjectUtilities(IServiceCollection services)
         {
 #warning FAZER!
         }
