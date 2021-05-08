@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.API/obj/*
+/3 - Códigos/Backend/src/CozinhaPedidos/.vs/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Domain/obj/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Infra/obj/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.API/bin/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Domain/bin/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Core/bin/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Core/obj/*
+/3 - Códigos/Backend/src/CozinhaPedidos/CozinhaPedidos.Infra/bin/*
