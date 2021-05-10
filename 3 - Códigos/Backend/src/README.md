@@ -19,7 +19,6 @@ Como mapeamento das entidades do mundo real e propriedades dessas entidades, ide
 - Nome
 - Descrição
 - Preço
-
 - Quantidade
 
 **Cardapio**
